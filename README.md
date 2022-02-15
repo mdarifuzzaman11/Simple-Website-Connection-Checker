@@ -1,6 +1,6 @@
-# Check Website Connectivity
+# Bulk Website Connection Checker
 
-This directory contains a simple tool to check connectivity to a number of web sites.
+Bulk Website Connection Checker - This directory contains a simple tool to check connectivity to a number of web sites. You can Insert as many website as you want inside of the website.txt file and it will check all of the website status at once when you run the python Script.
 
 The input file `websites.txt` should contain web site URLs, one per line.
 
